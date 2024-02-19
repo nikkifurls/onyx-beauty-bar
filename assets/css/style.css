@@ -411,9 +411,10 @@ footer {
         }
     }
 
-    /* img {
+    img {
+        border-radius: 50%;
         border: 3px solid var(--color-secondary);
-    } */
+    }
 
     figcaption {
         text-align: center;
